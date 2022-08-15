@@ -2,3 +2,10 @@ h1{
     font-size: 100px;
     color: violet;
 }
+
+body{
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
